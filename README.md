@@ -1,3 +1,6 @@
+IMPORTANT: ¡DESPUÉS DE INSTALAR PIVPN HAY QUE ABRIR LOS PUERTOS 51820 EN EL ROUTER (UDP) Y MAPEARLOS CON LA IP LOCAL DE LA RASPBERY PI QUE CONTENGA EL SERVICIO PIVPN!
+
+
 > [!WARNING]
 > PiVPN is maintained on a best-effort basis, please read more about it [here](https://github.com/pivpn/pivpn/releases/tag/v4.6.1). Previous announcement is [here](https://github.com/pivpn/pivpn/releases/tag/v4.6.0).
 
